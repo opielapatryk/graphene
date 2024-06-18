@@ -1,0 +1,1 @@
+# This project shows implementation of graphQL API with Django backend framework
